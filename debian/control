@@ -1,0 +1,15 @@
+Source: dxf2gcode
+Section: unknown
+Priority: optional
+Maintainer: Sebastian Kuzminsky <seb@highlab.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.8
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Git: https://anonscm.debian.org/collab-maint/dxf2gcode.git
+#Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/dxf2gcode.git
+
+Package: dxf2gcode
+Architecture: all
+Depends: ${misc:Depends}
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
