@@ -29,4 +29,4 @@ override_dh_auto_build:
 	cd source; python3 ./st-setup.py build
 
 override_dh_auto_install:
-	cd source; python3 ./st-setup.py install --prefix=usr --install-lib usr/lib/python3.5 --root=../debian/dxf2gcode
+	cd source; python3 ./st-setup.py install --prefix=usr --install-lib usr/lib/python3.5/dist-packages --root=../debian/dxf2gcode
