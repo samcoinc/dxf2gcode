@@ -12,5 +12,7 @@ Homepage: https://sourceforge.net/p/dxf2gcode/wiki/Home/
 Package: dxf2gcode
 Architecture: all
 Depends: ${misc:Depends}, ${python3:Depends}, python3-pyqt5, pstoedit, poppler-utils
-Description: <insert up to 60 chars description>
- <insert long description, indented with spaces>
+Description: converts 2D drawings to G-code for CNC machines
+ This program reads 2D drawings (in DXF, PDF, or Postscript form) and
+ produces G-code for running on CNC machines.  Supports tabs (aka breaks).
+ Supports multiple tools. Integrates well with LinuxCNC.
