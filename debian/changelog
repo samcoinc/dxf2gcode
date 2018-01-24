@@ -1,3 +1,9 @@
+dxf2gcode (20170925-3) unstable; urgency=medium
+
+  * Closes: #888298
+
+ -- Sebastian Kuzminsky <seb@highlab.com>  Wed, 24 Jan 2018 12:06:20 -0700
+
 dxf2gcode (20170925-2) unstable; urgency=medium
 
   * Fixup packaging.
