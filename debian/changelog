@@ -1,3 +1,9 @@
+dxf2gcode (20170925-2) UNRELEASED; urgency=medium
+
+  * Fixup packaging.
+
+ -- Sebastian Kuzminsky <seb@highlab.com>  Tue, 23 Jan 2018 18:00:14 -0700
+
 dxf2gcode (20170925-1) unstable; urgency=medium
 
   * Initial release.  Packages dxf2gcode version 20170925 from the
